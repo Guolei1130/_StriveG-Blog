@@ -1,0 +1,3 @@
+[submodule "blog_resource"]
+	path = blog_resource
+	url = ../blog_resource
