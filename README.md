@@ -5,6 +5,8 @@
 
 **有问题的话可以直接提issue**
 
+#### 系列文章
+* [Java集合类源码浅析系列](https://github.com/Guolei1130/_StriveG-Blog/tree/master/post/Java%E9%9B%86%E5%90%88%E7%B1%BB%E6%BA%90%E7%A0%81%E6%B5%85%E6%9E%90)
 
 #### 文章索引
 
@@ -56,5 +58,6 @@
 * [MaterialDesign动画](https://guolei1130.github.io/2018/01/27/MaterialDesign%E5%8A%A8%E7%94%BB/)
 * [Android也需要防止SQL注入](https://guolei1130.github.io/2018/03/25/Android%E4%B9%9F%E9%9C%80%E8%A6%81%E9%98%B2%E6%AD%A2SQL%E6%B3%A8%E5%85%A5/)
 * [浅析Android插件化](https://juejin.im/post/5ac5d015f265da239a600a72)
-* [ArrayList源码分析](https://github.com/Guolei1130/_StriveG-Blog/blob/master/post/ArrayList%E6%BA%90%E7%A0%81%E8%A7%A3%E6%9E%90.md)
-* [ArrayDeque源码解析](https://github.com/Guolei1130/_StriveG-Blog/blob/master/post/ArrayDeque%E6%BA%90%E7%A0%81%E8%A7%A3%E6%9E%90.md)
+
+
+
